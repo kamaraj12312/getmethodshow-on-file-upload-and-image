@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="getmodelimage_file.getmodelimage" CodeBehind="getmodelimage.svc.cs" %>
